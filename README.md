@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavithrakumar22" alt="pavithrakumar22" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working on **AI Technologies**
 
-- 🌱 I’m currently learning **Flutter,NextJS,TypeScript And Deep Learning**
+- 🌱 I’m currently learning **ML,DL,MLOps,DevOps**
 
-- 👯 I’m looking to collaborate on **Web development projects which include mern stack or nextjs**
+- 👯 I’m looking to collaborate on **Web + AI development projects**
 
-- 🤝 I’m looking for help with **Android developers and AI ML developers**
+- 🤝 I’m looking for help with **AI ML developers**
 
 - 💬 Ask me about **Java,python,react,mongoose,express**
 
